@@ -2,7 +2,7 @@
 Seguiremos las pautas establecidas en la **Tarea 1**, consta de 2 apartados
 
 ## Apartado 1
-- Crear cuenta en *HitHub*
+- Crear cuenta en *GitHub*
 - Crear un archivo *Readme* y crear un repositorio.
 - Explicación breve de la tarea en lenguaje de marcación
 - Imprimir en pantalla "Hola Mundo" con Python.
